@@ -97,3 +97,10 @@ input {
   display: grid;
   gap: 1.75rem;
 }
+.section {
+  padding-block: 8rem;
+}
+.section__title {
+  font-size: var(--h1-font-size);
+  margin-bottom: 1rem;
+}
