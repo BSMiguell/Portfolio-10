@@ -1,5 +1,6 @@
 /*=============== HOME ===============*/
 .home {
+  height: 100vh;
   padding-block: 16rem 9rem;
 }
 .home__container {
