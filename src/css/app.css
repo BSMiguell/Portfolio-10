@@ -19,8 +19,8 @@
   --body-font: "Poppins", sans-serif;
   --second-font: "Montserrat", sans-serif;
 
-  --big-font-size: 4.5rem;
-  --h1-font-size: 3.75rem;
+  --big-font-size: clamp(2rem, 0.9706rem + 4.7059vw, 4.5rem);
+  --h1-font-size: clamp(1.75rem, 0.9265rem + 3.7647vw, 3.75rem);
   --h2-font-size: 1.75rem;
   --h3-font-size: 1.5rem;
   --normal-font-size: 1.125rem;
